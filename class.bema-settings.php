@@ -210,9 +210,9 @@ if (!class_exists('Bema_Settings')) {
         // Function to execute when the action is triggered
         public function sync_all_campaigns($selectedCampaigns) {
             // API keys for MailerLite and EDD
-            $mailerLiteApiKey = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiNDc1ZmYwZTYxMWViYjMyMzY4MDk0MGRjOGM0ZDU4ZGJmZDRkNzJiMzM2Yzk5MDAyOTVjNTVmODA5ZTEyMmJiOTE3ZTZmNDczNDViOWUxMDciLCJpYXQiOjE2Nzc4NTk0NjEuNDc0NjAxLCJuYmYiOjE2Nzc4NTk0NjEuNDc0NjAzLCJleHAiOjQ4MzM1MzMwNjEuNDcwNTI5LCJzdWIiOiIzNzM1ODciLCJzY29wZXMiOltdfQ.KTc4oAfVXKtoe-kDhFWLoJ3_914_8jLBfGRCs99A9OCAm4jpJaiKONYbDX3yiSUVL7dAfCsEL5U1F_E02lo8uZqaR0OzLS9-yutT9jAxha6zyS8oZ5rL3ObftGP5EK6US1jQjw-mdtXYK_Q46eDDJ9bx8n6lGCUugcubT_tMQO5MXKzb_ENBOB9wOGCPeM6F3KkC3C_Wm_1B9Rzh6xXHRpFGt0Vr2SSCi2DlyC2UOX352SIwr5O-Z0XFSBazbfJtWpZ11QPEJuoGEWA7pgpXihZTzipK9yCtbtjzr0VxDOEX6ze344lKNda6aX33kJc-j3Iq1LuT0LlUl7sQseUixvlp3GXzODWhUi3wePEWm2S2X10AFi33OQPnCjtMeUN6Nr2ZToeMpwo5ZmkLjRP3LY-BNYqHzBqFQhD_ao8SGx12AmupOr9x6VhF2QAYWetaHnvoXBhJ9NOSHhVoDNsYrvBX9KkpGwpNVmySD4lpjBFPs7kxt6pcjw3hbe-hNHqlEX3ICrObYtONuLU6uRNJZ2krQexHxWS6DrKfR2JdsvI_mV9fhoV9LSxHwo-gpNziHm0vW4hCo7MBGbQednlZxN9BYZAVCxBaLVJb3V9oP991fDthWziJveI7x3gsoWSnVfuXVJltp_lYolsxsrT9Tk68if6QxzV78AEBz1fkAD8';
-            $eddApiKey = '1efc9adf670dca5378684327884b0f9d';
-            $eddToken = 'aec529b9dca4e419212e80d7e6d3ad08';
+            $mailerLiteApiKey = '********************************';
+            $eddApiKey = '********************************';
+            $eddToken = '********************************';
 
 
             // Create an instance of the em_sync class
